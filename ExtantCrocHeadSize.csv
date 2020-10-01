@@ -1,0 +1,23 @@
+CommonName,Species,Habitat,PrimaryDiet,ScaledCranialSize,LineageAge
+American alligator,Alligator mississippiensis,CF,G,36.1,42000000
+Chinese alligator,Alligator sinensis,CF,G,17.2,42000000
+American crocodile,Crocodylus acutus,CM,G,46.1,3000000
+Slender-snouted crocodile,Mecistops cataphractus,CF,F,46.1,18000000
+Orinoco crocodile,Crocodylus intermedius,CF,F,45.2,3000000
+Australian freshwater crocodile,Crocodylus johnstoni,CF,F,28.5,11000000
+Broad snouted caiman,Caiman latirostris,CF,G,29.4,4000000
+Philippine crocodile,Crocodylus mindorensis,IF,G,31.1,1000000
+Morelet’s crocodile,Crocodylus moreletti,CF,G,31.1,5000000
+Nile crocodile,Crocodylus niloticus,CF,G,39.3,10000000
+New Guinea crocodile,Crocodylus noveaguinea,IF,G,30.1,1000000
+Mugger crocodile,Crocodylus palustris,CF,G,33.7,10000000
+Saltie,Crocodylus porosus,CM,G,51.1,15000000
+Cuban crocodile,Crocodylus rhombifer,IF,G,25.1,5000000
+Siamese crocodile,Crocodylus siamensis,CF,G,31.3,10000000
+Gharial,Gavialis gangeticus,CF,F,60.3,22000000
+Black caiman,Melanosuchus niger,CF,G,39.2,15000000
+Dwarf crocidle,Osteolamus tetrapsis,CF,G,15.5,15000000
+Curvier’s dwarf caiman,Paleosuchus palpebrosus,CF,G,18.4,15000000
+Smooth-fronted caiman,Paleosuchus trigonatus,CF,G,19.3,15000000
+False gharial,Tomistoma schlegii,IF,F,58.1,22000000
+common caiman,Caiman crocodilus,CF,G,20.9,15000000

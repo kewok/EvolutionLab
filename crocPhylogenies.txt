@@ -1,0 +1,55 @@
+(
+    (
+        (
+        Gavialis_gangeticus:22,
+        Tomistoma_schlegelii:22
+        ):50,
+        (
+            (        
+            Mecistops_cataphractus:18,
+            Osteolamus_tetrapsis:15
+            ):20,
+            (        
+                (
+		(
+                Crocodylus_johnstoni:11,
+                (Crocodylus_noveaguineae:1,
+                 Crocodylus_mindorensis:1):5
+                ):12,
+
+                (
+                    (
+                        (Crocodylus_acutus:3, Crocodylus_intermedius:3):4,
+                        (Crocodylus_rhombifer:5, Crocodylus_moreletii:5):6
+                    ):10,
+                    Crocodylus_niloticus:10
+                ):12
+                ):20,
+                    (
+                    (Crocodylus_siamensis:10, 
+                     Crocodylus_palustris:10):6,
+                    Crocodylus_porosus:15
+                    ):20
+            ):22
+        ):54
+     ):87,
+     (
+         (
+             (
+             Paleosuchus_trigonatus:15,
+             Paleosuchus_palpebrosus:15
+             ):15,
+             (
+             Melanosuchus_niger:15,
+                 (
+                 Caiman_latirostris:4,
+                 Caiman_crocodilus:15
+                 ):16
+             ):20
+         ):65,
+             (
+             Alligator_mississippiensis:42,
+             Alligator_sinensis:42
+             ):65
+    ):87
+ );
